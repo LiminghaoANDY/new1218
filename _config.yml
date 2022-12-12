@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: zh-CN
-title: Lmh's Personal Website
-email:
-description: "Lmh's Personal Website"
+title: 李铭灏的Jekyll网站
+email: 1462723631@qq.com
+description: "李铭灏的Jekyll网站"
 baseurl: "/Lmh-y" # the optional subpath of your site, e.g. "/blog"
 url: "https://Lmh-y.gitee.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
@@ -24,11 +24,11 @@ author:
   twitter:
   picture:
 twitter_username:
-github_username:
+github_username: LiminghaoANDY
 logo: # path of site logo, e.g. "/assets/images/logo.png"
-search: # true, false (default)
-search_full_content: false # true, false (default)
-search_provider: # lunr (default), algolia
+search: true # true, false (default)
+search_full_content: true # true, false (default)
+search_provider: lunr # lunr (default), algolia
 algolia:
   application_id: # YOUR_APPLICATION_ID
   index_name: # YOUR_INDEX_NAME
@@ -37,7 +37,7 @@ algolia:
 
 # Build settings
 markdown: kramdown
-#theme: jekyll-theme-basically-basic
+# theme: jekyll-theme-basically-basic
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
