@@ -21,7 +21,7 @@ t:
   posts: "文章 Posts"
   page: "页面 Page"
   of: "of"
-  min_read: "min read"
+  min_read: "阅读需要的最少时间 min read"
   present: "当下 Present"
 
 # Google Fonts
