@@ -38,7 +38,7 @@ layout: about
  - [团队]个人制作
  - [贡献] 下载font awesome 图标文字和 codepen中得animation 并对其进行修改
 
-#### [项目3]非你莫属-个人简历模板制作 [【期中项目】] (http://liminghaoandy.gitee.io/resume)
+#### [项目3]非你莫属-个人简历模板制作 [期中项目] (http://liminghaoandy.gitee.io/resume)
  - [目标]文件夹架构准确；个人头像使用了flexible images；使用HTML5语义标签；元数据；commit说明清晰明了；CSS/CSS3内容；引用新的CSS fonts
  - [团队]个人制作
  - [贡献]实现上面的目标
