@@ -17,7 +17,7 @@ lang: zh-CN
 title: 李铭灏的Jekyll网站
 email: 1462723631@qq.com
 description: "李铭灏的Jekyll网站"
-baseurl: "/lmhandy" # the optional subpath of your site, e.g. "/blog"
+baseurl: "" # the optional subpath of your site, e.g. "/blog"
 url: "https://lmhandy.gitee.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: "Li Minghao"
